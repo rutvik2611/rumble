@@ -1,0 +1,3 @@
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviou
+r is the source of the following dependency conflicts.
+awscli 1.20.49 requires PyYAML<5.5,>=3.10, but you have pyyaml 6.0 which is incompatible.
